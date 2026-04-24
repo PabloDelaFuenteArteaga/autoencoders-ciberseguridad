@@ -43,4 +43,4 @@ La base de datos no está incluida en el proyecto. Para descargarla se deberá a
 
 **Pablo De la Fuente Arteaga** · [github.com/PabloDelaFuenteArteaga](https://github.com/PabloDelaFuenteArteaga)
 **Rubén Torres Rodríguez** · [github.com/Ruben-2004](https://github.com/Ruben-2004)
-**Alfonso González Avinzini** · 
+**Alfonso González Avinzini** · [github.com/fonsiga03-droid](https://github.com/fonsiga03-droid)
