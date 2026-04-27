@@ -27,15 +27,11 @@ La base de datos no está incluida en el proyecto. Para descargarla se deberá a
 ## Estructura del proyecto
 
   ```
-  proyecto-meteorologia/
-  ├── .github/workflows/   # CI/CD pipelines
-  ├── data/                # Data files (not committed — see .gitignore)
-  ├── docs/                # MkDocs documentation sources
-  ├── notebooks/           # Exploratory notebooks
-  ├── src/weather/         # Source package
-  ├── tests/               # Unit and integration tests
-  ├── mkdocs.yml
-  ├── pyproject.toml
+  autoencoders-ciberseguridad/
+  ├── notebooks/                                   # Notebooks about preprocessing
+  ├── scripts                                      # Data filters
+  ├── .gitignore
+  ├── Contexto_del_problema_y_estado_del_arte.pdf  # State of the art
   └── README.md
   ```
 
