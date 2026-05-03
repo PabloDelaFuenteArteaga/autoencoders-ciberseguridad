@@ -50,3 +50,8 @@ htmlcov/
 
 # macOS
 .DS_Store
+
+# Archivos
+*.npy
+*.csv
+*.pkl
