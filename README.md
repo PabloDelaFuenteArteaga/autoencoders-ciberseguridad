@@ -6,7 +6,11 @@
 
 ## Descripción
 
-**RELLENAR**
+Este proyecto implementa una solución de Deep Learning diseñada para la clasificación de amenazas en entornos de red. La arquitectura utiliza un enfoque híbrido para maximizar la eficiencia y precisión:
+
+* Reducción de Dimensionalidad: Implementación de un Autoencoder para comprimir el espacio de características, filtrando el ruido y extrayendo las representaciones más latentes del dataset de ciberseguridad.
+
+* Clasificación: Un Perceptrón Multicapa (\textbf{MLP}) integrado que utiliza las características optimizadas para categorizar con alta precisión los diferentes tipos de ataques.
 
 ## Instalación
 
